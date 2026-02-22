@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25473365/README.md)
-
 # Bino
 
 This is a website that you can use to create advanced social media profiles to make your life easier when making profiles. 

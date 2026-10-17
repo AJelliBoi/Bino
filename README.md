@@ -22,3 +22,6 @@ To use this tool, all you have to do is put the bino link in your description/bi
 • Descriptions & Custom layouts\
 • The user database [NOT GOING TO BE OPEN SOURCE FOR OBVIOUS REASONS]
 
+## Licence
+
+No licence (Copyright Landon Werly)

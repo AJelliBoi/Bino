@@ -12,7 +12,7 @@ Sadly though, I cannot provide any further information on how the website works 
 
 ## How to Use
 
-To use this tool, all you have to do is put the bino link in your description/bio, then people can click on it and view your advanced profile created on Bino
+To use this tool, all you have to do is put the bino link in your description/bio, then people can click on it and view your advanced profile created on Bino (I will make a extension for Chrome and Firefox but not until the project is fully established so you can see the Bino profile on an actual social media platform page)
 
 ### Features That Will be Added:
 
@@ -20,7 +20,7 @@ To use this tool, all you have to do is put the bino link in your description/bi
 • Sign in page\
 • Profile adding\
 • Descriptions & Custom layouts\
-• The user database [NOT GOING TO BE OPEN SOURCE FOR OBVIOUS REASONS]
+• The user database
 
 ## Licence
 

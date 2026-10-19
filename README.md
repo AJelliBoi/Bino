@@ -5,7 +5,7 @@ This is a website that you can use to create advanced social media profiles to m
 You can visit the website here : https://ajelliboi.github.io/Bino/ \
 Be aware that the changes that I make will not automatically be pushed here. This site isn't for testing.
 
-
+Version: v0.0.1-prototype
 ## DISCLAIMER
 
 Only the source code can be seen here and has to be run to find out how the project is doing currently. There is no website yet due to the project being only in early prototype\

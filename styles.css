@@ -3,10 +3,12 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 /* STYLING */
+
 #best-website {
     font-size: 20px;
     font-family:'Montserrat';
     letter-spacing: 0.15rem;
+    color: 000000;
 }
 
 #use-head {
@@ -26,6 +28,12 @@
 
 #legals {
     text-align: center;
+    color: white;
+}
+
+#github {
+    text-align: center;
+    color: #6179ff;
 }
 
 #you{
@@ -34,20 +42,51 @@
     font-weight: 325;
 }
 
+#login {
+    font-family: 'Montserrat', serif;
+    background-color: #282828;
+    color: white;
+    text-decoration: none;
+}
+
+#homepage {
+    font-family: 'Montserrat', serif;
+    background-color: #282828;
+    color: white;
+    text-decoration: none;
+}
+
+#top-bar {
+    margin-left: auto;
+    margin-right: auto;
+    color: #1c1c1c;
+}
+
 body {
     font-family: 'Montserrat', serif;
     background-color: #282828;
     color: white;
 }
 
-h1 {
+h1, h2, h4 {  
     font-family: 'Linux Biolinum G', serif;
 }
 
-h2 {
-    font-family: 'Linux Biolinum G', serif;
+
+form {
+    text-align: center;
 }
 
-h4 {
-    font-family: 'Linux Biolinum 6', serif;
+input {
+    background-color: #1c1c1c;
+    border-color: #1c1c1c;
+    color: #ffffff;
+    height: 30px;
+    padding: 3px;
+    margin-bottom: 20px;
+}
+
+label {
+    width: 75px;
+    text-align: right;
 }
